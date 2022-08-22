@@ -6,5 +6,5 @@ this repositroy contains some demos as self study topics
 * all of them with spring boot framework 
 
 * updated today 
-* REst my read me file 
+* 
 * 
