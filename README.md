@@ -6,5 +6,10 @@ this repositroy contains some demos as self study topics
 * all of them with spring boot framework 
 
 * updated today 
-* 
+* read me must be as it 
+pleas go aheasd 
+kdsidkf jds
+ dfkjdf
+  adkfjd
+  
 * 
